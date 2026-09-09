@@ -1,0 +1,1 @@
+A backend ticketing system built with Go while learning backend engineering, software design, architecture, and system design.
